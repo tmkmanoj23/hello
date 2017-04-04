@@ -1,0 +1,23 @@
+{
+  "name": "hello",
+  "version": "1.0.0",
+  "description": "hi this is first repo using ssh",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kailash29/hello.git"
+  },
+  "author": "kailash vishnoi <kailash.vishnoi@incture.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kailash29/hello/issues"
+  },
+  "homepage": "https://github.com/kailash29/hello#readme",
+  "dependencies": {
+    "express": "^4.15.2",
+    "http": "0.0.0"
+  }
+}
